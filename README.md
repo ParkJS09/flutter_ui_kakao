@@ -1,8 +1,5 @@
 # flutter_kakao
-
-A new Flutter project.
-
-## Getting Started
+플러터를 활용한 카카오톡 UI 만들기
 
 This project is a starting point for a Flutter application.
 
